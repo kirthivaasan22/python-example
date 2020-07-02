@@ -1,3 +1,6 @@
-#This is test program
+# This is test program
+def main(msg):
+    print(msg)
 
-print("Hello World!!")
+
+main("Hello World")
